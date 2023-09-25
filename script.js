@@ -8,4 +8,4 @@ showPopupButton.addEventListener('click', () => {
 
 closePopupButton.addEventListener ('click', () => {
     popupContainer.style.display = 'none'
-})
+}) 
