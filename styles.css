@@ -9,9 +9,8 @@ body{
    left: 50%;
    right: 10%;
    transform: translate(-50%, 50%);
-   text-wrap: nowrap;
    font-size: 2rem;
-
+   width: 100%;
 }
 #popupContainer{
    display: none;
@@ -52,5 +51,4 @@ body{
 
 .emoji{
     position: absolute;
-    font-size: 1rem;
 }
